@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=54f-a&label=Profile%20views&color=0e75b6&style=flat" alt="54f-a" /> </p>
 
-- 🌱 I’m currently learning: **Qlik Talend, AWS, Python**
+- 🌱 I’m currently learning: **Qlik Talend, Microsoft Fabric**
 
 - 📫 How to reach me: **sarfaraj_ahmed@outlook.com**
 
